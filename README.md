@@ -1,3 +1,7 @@
 # TensorFlow_UseOpencvGetObject
 1_UseModel.ipynb
-3種方式呈現圖片，本專案推薦使用opencv
+3種方式呈現圖片
+2_ShowImage
+本專案推薦並使用opencv
+3_OpencvCamGetObject
+利用鏡頭抓取物件
